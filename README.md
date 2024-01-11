@@ -13,8 +13,11 @@ The database contains all the necessary information like sales transactions, cus
 After cleaning the data, visualization is the next step. Once the dasboard is built, one needs to make changes according to the suggestions given by the stakeholders. 
 
 The following are the results of the projects :- 
+
 ●	Created a dashboard with Power Bi to understand AtliQ hardware’s last 4 years’ sales trend.
+
 ●	The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decision.
+
 ●	This dashboard could assist in raising the revenue at least 7% in the next quarter.
 
 
